@@ -1,5 +1,5 @@
-# Project Overview
-The program takes an individual real and integer iputs (chosen by the user) and calculates the neutron flux using the booles and monte carlo integration 
+# Overview
+The program takes an individual real and integer inputs (chosen by the user) and calculates the neutron flux using the booles and monte carlo integration 
 techniques. It calculates the flux in two different scerarios:
 
 The first one, the flux is calculated over a solid box reactor where the distance of the detector is increasing away in distance from the reactor. The flux is then calculated
